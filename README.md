@@ -8,6 +8,9 @@ Este é um projeto feito em Nodejs, é necessário tê-lo instalado na sua máqu
     Instalar dependências
     npm install
 
+    Executar as Migrations
+    npm run typeorm migrations:run
+
     Iniciar servidor de desenvolvidmento
     npm run dev
 
