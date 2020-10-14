@@ -11,6 +11,9 @@ Este é um projeto feito em Nodejs, é necessário tê-lo instalado na sua máqu
     Executar as Migrations
     npm run typeorm migrations:run
 
+    Criar pasta uploads na raiz do projeto
+    mkdir uploads
+
     Iniciar servidor de desenvolvidmento
     npm run dev
 
@@ -26,13 +29,13 @@ O projeto foi desenvolvido em NodeJs, utilizando Typescript como linguagem de pr
 ## Screenshots Insomnia
 
 Criação Orfanato
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-backend/main/screenshots/criacao_orfanato.PNG" alt="Happy">
 
 Listagem de orfanatos
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-backend/main/screenshots/listagem_orfanatos.PNG" alt="Happy">
 
 Detalhes do Orfanato
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-backend/main/screenshots/detalhes_orfanato.PNG" alt="Happy">
 
 Validação de erros API
-<img src="" alt="">
+<img src="https://raw.githubusercontent.com/heroneto/nlw3-happy-backend/main/screenshots/valida%C3%A7%C3%A3o_erros.PNG" alt="Happy">
